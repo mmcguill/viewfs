@@ -1,0 +1,4 @@
+LIBRARY	MMcGExt2FS
+
+EXPORTS
+	GetGUIFSHandler

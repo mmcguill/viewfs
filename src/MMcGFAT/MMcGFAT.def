@@ -1,0 +1,18 @@
+LIBRARY	MMcGFAT
+
+EXPORTS
+	GetGUIFSHandler
+	FirstSectorOfCluster
+	InitFATInfo
+	ReadCluster
+	ReadEntireFileFromCluster
+	TotalLinkedClustersForCluster
+	ParseFATDirectory
+	IsEndOfFileCluster
+	IsBadCluster
+	IsFreeCluster
+	FormatAttributes
+	FormatOldFilename
+	FormatLongFilename
+
+
